@@ -1,2 +1,2 @@
- A zoologist fascinated with the treasure
- of data science. 
+Expertise in Python, SQL, Tableau, Power BI,
+and Excel
